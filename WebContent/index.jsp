@@ -50,7 +50,7 @@ div {
 			<select name  ="Currency">
 			<option selected>Dollar</option>
 			<option> Euro </option>
-			<option> Yen </option>
+			<option> Riyal </option>
 			</select>
 				<tr><td align="center"><input type="number" size=25  placeholder="Enter dollar Value" name="num" required/></td></tr>
 				<tr><td align="center">
