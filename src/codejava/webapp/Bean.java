@@ -22,8 +22,8 @@ public class Bean {
 		case "Euro" :
 			res=78*num;
 			break;
-		case "Yen" :
-			res=184*num;
+		case "Riyal" :
+			res=18*num;
 			break;
 		}
 		
